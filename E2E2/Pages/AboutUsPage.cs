@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.Playwright;
 
 namespace E2E.Pages
 {
     internal class AboutUsPage
     {
+        private readonly IPage _page;
+        public AboutUsPage(IPage page)
+        {
+            _page = page;
+        }
+
+        public ILocator AboutUsHeader => _page.Locator("h2");
     }
 }

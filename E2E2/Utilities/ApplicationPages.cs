@@ -4,8 +4,8 @@
     {
         public Dictionary<string, string> Pages = new()
         {
-            {"HomePage", "" },
-            {"AboutUsPage", "Om-oss" }
+            {"PilsGuidenMainPage", "" },
+            {"AboutUsPage", "om-oss" }
         };
     }
 }

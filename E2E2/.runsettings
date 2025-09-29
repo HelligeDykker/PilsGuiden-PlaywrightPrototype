@@ -1,7 +1,7 @@
 ﻿<RunSettings>
   <Playwright>
 	  <TestRunParameters>
-		  <Parameter name="BaseUrl" value="https://www.pilsguiden.no/" />
+		  <Parameter name="BaseUrl" value="https://www.pilsguiden.no/"/>
 	  </TestRunParameters>
     <LaunchOptions>
       <Headless>false</Headless>

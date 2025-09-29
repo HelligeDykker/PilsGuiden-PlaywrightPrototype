@@ -2,17 +2,17 @@
 
 namespace E2E.Tests
 {
-    internal class BaseTest : PageTest
+    public class BaseTest : PageTest
     {
-        public async Task NavigateToPage(string PageUrl)
+        public async Task NavigateToPage(string page)
         {
             var baseUrl = BaseUrl.GetBaseUrl();
-            if (new ApplicationPages().Pages.TryGetValue(PageUrl, out var targetUrl))
+            if (!new ApplicationPages().Pages.TryGetValue(page, out var url))
             {
-                await Page.GotoAsync(baseUrl + targetUrl);
+                throw new ArgumentException($"Page '{page}' not found in Urlpages.");
             }
-            else throw new ArgumentException($"{PageUrl} was not found, please check the page dictionary");
-            
+
+            await Page.GotoAsync(baseUrl + url);
         }
     }
 }
