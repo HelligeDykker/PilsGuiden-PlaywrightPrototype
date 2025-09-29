@@ -4,7 +4,7 @@ namespace E2E.Tests
 {
     [TestFixture]
     [Parallelizable(ParallelScope.Self)]
-    internal class AboutUsTests : BaseTest
+    public class AboutUsTests : BaseTest
     {
         AboutUsPage AboutUsPage;
         [SetUp]

@@ -2,7 +2,7 @@
 
 namespace E2E.Pages
 {
-    internal class AboutUsPage
+    public class AboutUsPage
     {
         private readonly IPage _page;
         public AboutUsPage(IPage page)

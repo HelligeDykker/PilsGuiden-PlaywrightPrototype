@@ -2,7 +2,7 @@
 
 namespace E2E.Pages
 {
-    internal class PilsGuidenMainPage
+    public class PilsGuidenMainPage
     {
         private readonly IPage _page;
         public PilsGuidenMainPage(IPage page)

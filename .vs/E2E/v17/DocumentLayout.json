@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\pages\\pilsguidenmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|solutionrelative:e2e\\pages\\pilsguidenmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E\\E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\pages\\pilsguidenmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E\\E2E.csproj|solutionrelative:e2e\\pages\\pilsguidenmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\pages\\aboutuspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|solutionrelative:e2e\\pages\\aboutuspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E\\E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\tests\\aboutustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E\\E2E.csproj|solutionrelative:e2e\\tests\\aboutustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\tests\\aboutustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|solutionrelative:e2e\\tests\\aboutustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E\\E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\pages\\aboutuspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E\\E2E.csproj|solutionrelative:e2e\\pages\\aboutuspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AboutUsTests.cs",
               "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\Tests\\AboutUsTests.cs",
               "RelativeDocumentMoniker": "E2E\\Tests\\AboutUsTests.cs",
@@ -34,8 +38,7 @@
               "RelativeToolTip": "E2E\\Tests\\AboutUsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:54:32.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T17:54:32.957Z"
             },
             {
               "$type": "Document",
@@ -52,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AboutUsPage.cs",
               "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\Pages\\AboutUsPage.cs",
               "RelativeDocumentMoniker": "E2E\\Pages\\AboutUsPage.cs",
@@ -60,12 +63,7 @@
               "RelativeToolTip": "E2E\\Pages\\AboutUsPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:53:42.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2025-09-29T17:53:42.52Z"
             }
           ]
         }

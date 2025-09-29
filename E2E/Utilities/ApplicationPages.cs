@@ -1,6 +1,6 @@
 ﻿namespace E2E.Utilities
 {
-    internal class ApplicationPages
+    public class ApplicationPages
     {
         public Dictionary<string, string> Pages = new()
         {
