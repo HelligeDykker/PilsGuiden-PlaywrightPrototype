@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E2E2\\.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\pages\\pilsguidenmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|solutionrelative:e2e\\pages\\pilsguidenmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\AboutUsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E2E2\\Tests\\AboutUsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\pages\\aboutuspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|solutionrelative:e2e\\pages\\aboutuspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\PilsGuidenTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E2E2\\Tests\\PilsGuidenTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Utilities\\ApplicationPages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E2E2\\Utilities\\ApplicationPages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Utilities\\BaseUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E2E2\\Utilities\\BaseUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\BaseTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E2E2\\Tests\\BaseTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Pages\\PilsGuidenMainPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E2E2\\Pages\\PilsGuidenMainPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Pages\\AboutUsPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E2E2\\Pages\\AboutUsPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|c:\\users\\kjeti\\source\\repos\\pilsguiden-playwrightprototype\\e2e\\tests\\aboutustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252C616D-EE58-C558-3FB4-381E6C5B4CB9}|E2E.csproj|solutionrelative:e2e\\tests\\aboutustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,103 +25,47 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutUsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\Tests\\AboutUsTests.cs",
+              "RelativeDocumentMoniker": "E2E\\Tests\\AboutUsTests.cs",
+              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\Tests\\AboutUsTests.cs",
+              "RelativeToolTip": "E2E\\Tests\\AboutUsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:54:32.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".runsettings",
-              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\.runsettings",
-              "RelativeDocumentMoniker": "E2E2\\.runsettings",
-              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\.runsettings",
-              "RelativeToolTip": "E2E2\\.runsettings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-29T17:30:44.531Z"
+              "Title": "PilsGuidenMainPage.cs",
+              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\Pages\\PilsGuidenMainPage.cs",
+              "RelativeDocumentMoniker": "E2E\\Pages\\PilsGuidenMainPage.cs",
+              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\Pages\\PilsGuidenMainPage.cs",
+              "RelativeToolTip": "E2E\\Pages\\PilsGuidenMainPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:53:52.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AboutUsTests.cs",
-              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\AboutUsTests.cs",
-              "RelativeDocumentMoniker": "E2E2\\Tests\\AboutUsTests.cs",
-              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\AboutUsTests.cs",
-              "RelativeToolTip": "E2E2\\Tests\\AboutUsTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:28:45.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PilsGuidenTests.cs",
-              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\PilsGuidenTests.cs",
-              "RelativeDocumentMoniker": "E2E2\\Tests\\PilsGuidenTests.cs",
-              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\PilsGuidenTests.cs",
-              "RelativeToolTip": "E2E2\\Tests\\PilsGuidenTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:22:11.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationPages.cs",
-              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Utilities\\ApplicationPages.cs",
-              "RelativeDocumentMoniker": "E2E2\\Utilities\\ApplicationPages.cs",
-              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Utilities\\ApplicationPages.cs",
-              "RelativeToolTip": "E2E2\\Utilities\\ApplicationPages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:07:11.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseUrl.cs",
-              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Utilities\\BaseUrl.cs",
-              "RelativeDocumentMoniker": "E2E2\\Utilities\\BaseUrl.cs",
-              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Utilities\\BaseUrl.cs",
-              "RelativeToolTip": "E2E2\\Utilities\\BaseUrl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:05:01.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseTest.cs",
-              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\BaseTest.cs",
-              "RelativeDocumentMoniker": "E2E2\\Tests\\BaseTest.cs",
-              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Tests\\BaseTest.cs",
-              "RelativeToolTip": "E2E2\\Tests\\BaseTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:04:10.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PilsGuidenMainPage.cs",
-              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Pages\\PilsGuidenMainPage.cs",
-              "RelativeDocumentMoniker": "E2E2\\Pages\\PilsGuidenMainPage.cs",
-              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Pages\\PilsGuidenMainPage.cs",
-              "RelativeToolTip": "E2E2\\Pages\\PilsGuidenMainPage.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:04:02.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "AboutUsPage.cs",
-              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Pages\\AboutUsPage.cs",
-              "RelativeDocumentMoniker": "E2E2\\Pages\\AboutUsPage.cs",
-              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\Pages\\AboutUsPage.cs",
-              "RelativeToolTip": "E2E2\\Pages\\AboutUsPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\Pages\\AboutUsPage.cs",
+              "RelativeDocumentMoniker": "E2E\\Pages\\AboutUsPage.cs",
+              "ToolTip": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\Pages\\AboutUsPage.cs",
+              "RelativeToolTip": "E2E\\Pages\\AboutUsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:04:01.055Z"
+              "WhenOpened": "2025-09-29T17:53:42.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
