@@ -23,3 +23,6 @@ E2E2/obj/Debug/net8.0/E2E.AssemblyInfoInputs.cache
 .vs/E2E/CopilotIndices/17.14.1204.46620/CodeChunks.db
 .vs/E2E/CopilotIndices/17.14.1204.46620/SemanticSymbols.db
 .vs/E2E/v17/.suo
+/.vs/E2E
+*.db
+.vs/E2E/v17/.suo
