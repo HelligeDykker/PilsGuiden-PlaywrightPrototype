@@ -9,9 +9,8 @@ namespace E2E.Pages
         {
             _page = page;
         }
-        private ILocator LocationList => _page.Locator("[class=\"flex gap-2 font-semibold flex-wrap\"] li");
-        
         public ILocator PubFilterButton => _page.Locator("[id='filter-button']");
+        private ILocator LocationList => _page.Locator("[class=\"flex gap-2 font-semibold flex-wrap\"] li");
         private ILocator PubFilterDialog => _page.Locator("fieldset");
         private ILocator PubFilterSearchInput => PubFilterDialog.Locator("[type='text']");
         private ILocator PubFilterUseFilterButton => PubFilterDialog.GetByRole(AriaRole.Button, new() { Name = "Bruk filter" });
@@ -19,6 +18,18 @@ namespace E2E.Pages
         public ILocator GetPubBox(string pubName)
         {
             return _page.GetByRole(AriaRole.Button, new() { Name = pubName });
+        }
+
+        public async Task SelectLocation(string selectLocation)
+        {
+            await (await GetLocation(selectLocation)).ClickAsync();
+        }
+
+        public async Task SearchForPub(string pubName)
+        {
+            await PubFilterButton.ClickAsync();
+            await PubFilterSearchInput.FillAsync(pubName);
+            await PubFilterUseFilterButton.ClickAsync();
         }
 
         private async Task<ILocator> GetLocation(string locationFilter)
@@ -32,17 +43,6 @@ namespace E2E.Pages
                 }
             }
             throw new Exception($"Location '{locationFilter}' not found.");
-        }
-        public async Task SelectLocation(string selectLocation)
-        {
-            await (await GetLocation(selectLocation)).ClickAsync();
-        }
-
-        public async Task SearchForPub(string pubName)
-        {
-            await PubFilterButton.ClickAsync();
-            await PubFilterSearchInput.FillAsync(pubName);
-            await PubFilterUseFilterButton.ClickAsync();
         }
     }
 }

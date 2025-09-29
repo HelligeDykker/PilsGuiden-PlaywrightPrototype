@@ -9,7 +9,6 @@ namespace E2E.Pages
         {
             _page = page;
         }
-
         public ILocator AboutUsHeader => _page.Locator("h2");
     }
 }
