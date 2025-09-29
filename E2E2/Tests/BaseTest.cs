@@ -1,10 +1,18 @@
-﻿namespace E2E.Tests
+﻿using E2E.Utilities;
+
+namespace E2E.Tests
 {
     internal class BaseTest : PageTest
     {
-        public void NavigateToPage(string url)
+        public async Task NavigateToPage(string PageUrl)
         {
-            Page.GotoAsync(url).GetAwaiter().GetResult();
+            var baseUrl = BaseUrl.GetBaseUrl();
+            if (new ApplicationPages().Pages.TryGetValue(PageUrl, out var targetUrl))
+            {
+                await Page.GotoAsync(baseUrl + targetUrl);
+            }
+            else throw new ArgumentException($"{PageUrl} was not found, please check the page dictionary");
+            
         }
     }
 }

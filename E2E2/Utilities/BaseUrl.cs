@@ -1,6 +1,6 @@
 ﻿namespace E2E.Utilities
 {
-    internal class BaseUrl
+    public class BaseUrl
     {
         public static string GetBaseUrl()
         {
