@@ -1,0 +1,10 @@
+﻿<RunSettings>
+  <Playwright>
+	  <TestRunParameters>
+		  <Parameter name="BaseUrl" value="https://www.pilsguiden.no/" />
+	  </TestRunParameters>
+    <LaunchOptions>
+      <Headless>false</Headless>
+    </LaunchOptions>
+  </Playwright>
+</RunSettings>
