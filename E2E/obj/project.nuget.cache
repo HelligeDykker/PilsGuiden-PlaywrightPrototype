@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PQa3zLwHTio=",
+  "dgSpecHash": "JYzVk10vmw0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E2\\E2E.csproj",
+  "projectFilePath": "C:\\Users\\Kjeti\\source\\repos\\PilsGuiden-PlaywrightPrototype\\E2E\\E2E.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kjeti\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Kjeti\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
